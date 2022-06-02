@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @silentspring30
 - 👀 I’m interested in DAOs and protecting our natural world. Trees, rivers, animals and lands.
-- 🌱 I’m currently learning about DAOs, DeFi and sustainability DAOs.
-- 💞️ I’m looking to collaborate on DAO projects that help the environment.
+- 🌱 I’m currently learning about DAOs and Decentralized AI.
+- 💞️ I’m looking to collaborate on AI DAO projects that help on AI, DAOs and environment.
 - 📫 How to reach me discord.
 
 <!---
